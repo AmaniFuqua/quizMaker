@@ -2,6 +2,7 @@ package quizMaker;
 
 public class Questions
 	{
+		public static Object board;
 		private String question;
 		private int pAns;
 		public Questions (String q, int p)
@@ -25,4 +26,5 @@ public class Questions
 			{
 				this.pAns = pAns;
 			}
+		
 	}
