@@ -9,8 +9,10 @@ public class Quiz
 
 		public static void main(String[] args)
 			{
-				
+			
 				Scanner userInput = new Scanner(System.in);
+	Fruit x = new Strawberry();
+	()
 				String [] Answers = { "I taste good." , "May go splat maybe not.","it goes splat, its red and sticky.","plant me in the spring!", "The code will not execute."};
 				fillBoard();
 				int questions = 0;
