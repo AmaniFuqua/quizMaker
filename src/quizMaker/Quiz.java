@@ -12,7 +12,6 @@ public class Quiz
 			
 				Scanner userInput = new Scanner(System.in);
 	Fruit x = new Strawberry();
-	()
 				String [] Answers = { "I taste good." , "May go splat maybe not.","it goes splat, its red and sticky.","plant me in the spring!", "The code will not execute."};
 				fillBoard();
 				int questions = 0;
